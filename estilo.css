@@ -1,0 +1,14 @@
+p {
+    font-size: 1em;
+    
+}
+
+p.endereco {
+    
+    color: rebeccapurple;
+}
+
+.endereco {
+    
+    font-family: monospace;
+}
